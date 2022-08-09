@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juampy</h1>
 <h3 align="center">A passionate fullstack web developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Rocket Insights](https://www.rocketinsights.com/)
+- 🔭 I’m currently working on [DeptⓇ](https://www.deptagency.com/es-ar/)
 
 - 🌱 I’m currently learning **graphql**
 
