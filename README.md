@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working at [DeptⓇ](https://www.deptagency.com/es-ar/)
 
-- 🌱 I’m currently learning **nest**
+- I'm a Contentful certified professional
+
+- 🌱 I’m currently learning **Airflow**
 
 - 📫 How to reach me **juanaraneta10@gmail.com**
 
