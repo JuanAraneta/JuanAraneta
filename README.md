@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juampy</h1>
-<h3 align="center">A passionate fullstack web developer from Argentina</h3>
+<h3 align="center">Accomplished Director of Engineering with over 6 years of experience leading and scaling high-performing development teams within a global agency environment. Proven expertise in defining technical strategy, driving project execution from concept to deployment, and mentoring engineering talent. Passionate about building robust, scalable solutions and fostering a culture of innovation and technical excellence.
+</h3>
 
 - 🔭 I’m currently working at [DeptⓇ](https://www.deptagency.com/es-ar/)
 
